@@ -1,0 +1,16 @@
+/* Styles.css */
+.card {
+    height: 100%; /* Ensure all cards have the same height */
+  }
+  
+  .row {
+    margin-top: 20px; /* Add margin-top to the row */
+  }
+  .nav-top{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bolder;
+    color:rgb(197, 197, 233);
+    
+  }
+
+  
